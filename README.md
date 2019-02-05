@@ -7,3 +7,4 @@ edit.php
 delete.php
 display.php
 feed.php
+conf.php
